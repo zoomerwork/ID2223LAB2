@@ -1,0 +1,43 @@
+{
+  "perplexity": 25.26264762878418,
+  "generation": {
+    "avg_generation_time": 0.5756434917449951,
+    "samples": [
+      {
+        "prompt": "Explain quantum computing in simple terms:",
+        "response": "",
+        "time": 0.021560192108154297
+      },
+      {
+        "prompt": "Write a short story about a robot:",
+        "response": "The robot, with its metal limbs and circuits, was created with one purpose: to serve. It had no emotions, no thoughts, no dreams. It only knew its task: to carry out orders and complete tasks. It had been built by a team of brilliant scientists and engineers, who had poured their hearts and souls into creating this magnificent machine.\n\nThe robot was sent to a factory, where it worked tirelessly, day after day. It moved with precision and accuracy, performing its tasks without",
+        "time": 1.5574705600738525
+      },
+      {
+        "prompt": "What is the capital of France?",
+        "response": "",
+        "time": 0.016905546188354492
+      },
+      {
+        "prompt": "Translate 'Hello' to Spanish:",
+        "response": "",
+        "time": 0.016536712646484375
+      },
+      {
+        "prompt": "List three benefits of exercise:",
+        "response": "1. Improve cardiovascular health: Exercise strengthens the heart and lungs, reducing the risk of heart disease and stroke.\n2. Enhance bone density: Weight-bearing exercises like walking and weight training increase bone density, reducing the risk of osteoporosis.\n3. Reduce risk of chronic diseases: Regular exercise helps prevent or manage chronic conditions such as type 2 diabetes, obesity, and some types of cancer.",
+        "time": 1.2657444477081299
+      }
+    ]
+  },
+  "model_size": {
+    "total_params": 2614341888,
+    "trainable_params": 2614341888,
+    "size_mb": 4986.4619140625
+  },
+  "inference_speed": {
+    "avg_inference_time": 0.7459874629974366,
+    "tokens_per_second": 67.02525508819686
+  },
+  "overall_score": 95
+}

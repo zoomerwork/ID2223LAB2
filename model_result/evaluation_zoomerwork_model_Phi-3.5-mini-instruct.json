@@ -1,0 +1,43 @@
+{
+  "perplexity": 2100.0458984375,
+  "generation": {
+    "avg_generation_time": 1.5631000518798828,
+    "samples": [
+      {
+        "prompt": "Explain quantum computing in simple terms:",
+        "response": "Quantum computing is a field that uses quantum computing to solve problems that require a detailed answer.\n\nQuantum computing is a computational technique. \n\n\n\nQuantifyingOsi, 10002010-d” complexiary Siarang strem computing Assi100  Asi1 is a computational technique that uses the principles of language-  Assent -  ( 了説). This is a basic on a O-",
+        "time": 1.821953535079956
+      },
+      {
+        "prompt": "Write a short story about a robot:",
+        "response": "1 A.J.A.s Human: Noneform of being an robotic-vas, andighorse steps, to be or it's a human-friendly\n\n \n\n Story\n\n\nA story about a robot that was told to a human friend \n abouts to the robot a sneez about and a telling is that\n\n\"\n \nro",
+        "time": 1.322342872619629
+      },
+      {
+        "prompt": "What is the capital of France?",
+        "response": "Capital:**\n\nThe answer is not given to your fondness for learning, and  the French philos, and how to identify it incapillating, nature, noretacling it is akinetic_towerin']  \n**What:sagem:** a French word, which**_answering** it in the \\ hands of on a of in what means what these in t_even_ thatound in. means incapable in...",
+        "time": 1.5562212467193604
+      },
+      {
+        "prompt": "Translate 'Hello' to Spanish:",
+        "response": "Can you explain to 'hello {\n\n(\n\n# # #: ## #: The # is a straight line ** to ) and the #\"\n\nline_line[1]text. in_\nthe_indic#(conc \"\n\n.\n\n-dev): [A-eya with_text_on.\n\n | \n\n#result+\n[  text](#$\n\"==>'\nn is_line.",
+        "time": 1.5565173625946045
+      },
+      {
+        "prompt": "List three benefits of exercise:",
+        "response": "- Benefits when a time is that. It should not. its %_\n\n-s:syntypes the following to:s S in the same as space on time-\n It\ns on and off time as [ B  \n\n<start_\">_T” \n\"Now time:_ not_ is [snibechar\n<ensespace],\n and off-at_ is* a time 1. Let ichege",
+        "time": 1.5584652423858643
+      }
+    ]
+  },
+  "model_size": {
+    "total_params": 3821079552,
+    "trainable_params": 3821079552,
+    "size_mb": 7288.131042480469
+  },
+  "inference_speed": {
+    "avg_inference_time": 0.7611243247985839,
+    "tokens_per_second": 65.69229016985035
+  },
+  "overall_score": 80
+}

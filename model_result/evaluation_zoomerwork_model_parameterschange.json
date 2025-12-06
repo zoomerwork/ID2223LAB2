@@ -1,0 +1,43 @@
+{
+  "perplexity": 25.41292381286621,
+  "generation": {
+    "avg_generation_time": 2.324513626098633,
+    "samples": [
+      {
+        "prompt": "Explain quantum computing in simple terms:",
+        "response": "Quantum computing is a new way of computing that uses the principles of quantum mechanics, which are different from classical mechanics. In classical computing, information is processed using bits that can have either a 0 or a 1 value. In quantum computing, information is processed using quantum bits or qubits, which can have both a 0 and a 1 value at the same time. This allows quantum computers to process information much faster than classical computers. Quantum computing is still in its early stages, and there",
+        "time": 2.4443817138671875
+      },
+      {
+        "prompt": "Write a short story about a robot:",
+        "response": "Zeta, the robot, was a highly advanced artificial intelligence that had been programmed to perform a wide variety of tasks. It was capable of completing complex mathematical equations, recognizing and responding to voice commands, and even communicating with other robots.\nZeta was created by a team of scientists and engineers at a top-secret research facility, and it quickly became an integral part of the team. Zeta was designed to be highly efficient and accurate, and it quickly proved to be an invaluable asset to the team.",
+        "time": 2.2668211460113525
+      },
+      {
+        "prompt": "What is the capital of France?",
+        "response": "Paris is the capital of France. It is a beautiful city known for its art, fashion, and history. The Eiffel Tower is one of the most famous landmarks in the world, located in the heart of the city. Paris is also home to many museums, including the Louvre, which is famous for its collection of art and artifacts from ancient civilizations. The city has a rich history, dating back to the Middle Ages, and is known for its romantic atmosphere and beautiful architecture. Paris is",
+        "time": 2.3101749420166016
+      },
+      {
+        "prompt": "Translate 'Hello' to Spanish:",
+        "response": "Hola\nThe translation of 'Hello' to Spanish is Hola. This is the most common greeting in Spanish and is used to say hello to someone. It can also be used to say goodbye, as in \"¡Hasta luego, Hola!\" which means \"See you later, Hello!\".\nIn Spanish, the greeting can be used in different contexts, such as in formal or informal settings. For example, in a formal setting, it can be used to greet someone in a professional",
+        "time": 2.2815237045288086
+      },
+      {
+        "prompt": "List three benefits of exercise:",
+        "response": "1) improves cardiovascular health, 2) boosts mental clarity and focus, and 3) increases muscle strength and flexibility.\nExercising regularly can have numerous benefits for our overall health and well-being. Here are three key advantages of incorporating physical activity into your lifestyle:\n1. Improves cardiovascular health: Regular exercise helps strengthen the heart and lungs, reducing the risk of conditions such as heart disease, high blood pressure, and stroke. It also improves circulation and increases the body's ability to deliver",
+        "time": 2.319666624069214
+      }
+    ]
+  },
+  "model_size": {
+    "total_params": 3212749824,
+    "trainable_params": 3212749824,
+    "size_mb": 6127.834228515625
+  },
+  "inference_speed": {
+    "avg_inference_time": 1.1061094760894776,
+    "tokens_per_second": 45.203482187648575
+  },
+  "overall_score": 85
+}

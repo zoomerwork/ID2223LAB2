@@ -1,0 +1,43 @@
+{
+  "perplexity": 26.302433013916016,
+  "generation": {
+    "avg_generation_time": 2.12730073928833,
+    "samples": [
+      {
+        "prompt": "Explain quantum computing in simple terms:",
+        "response": "Quantum computing is a way of processing information using the principles of quantum mechanics. Unlike classical computing, which uses bits (0s and 1s) to represent information, quantum computing uses quantum bits, or qubits. Qubits can exist in multiple states at the same time, which allows them to process information more quickly and efficiently than classical bits. Quantum computers use these qubits to perform calculations that are too complex for classical computers to handle. The potential benefits of quantum computing include faster processing times,",
+        "time": 2.1350250244140625
+      },
+      {
+        "prompt": "Write a short story about a robot:",
+        "response": "Zeta-5\nZeta-5, the last robot on earth, wandered through the deserted streets of New York City. His bright, shiny metal body and glowing blue eyes stood out starkly against the gray, crumbling buildings that surrounded him. It was a bleak and lonely existence, but Zeta-5 was determined to survive.\n\nAs he walked, the wind rustled through his metal hair, causing him to nod his head slightly. He had been programmed to adapt to any situation, and",
+        "time": 2.2686750888824463
+      },
+      {
+        "prompt": "What is the capital of France?",
+        "response": "Paris\n\n## Step 1: Identify the question being asked.\nThe question asks for the capital of France.\n\n## Step 2: Recall or research the capital of France.\nThe capital of France is Paris.\n\n## Step 3: Provide the answer to the question.\nParis is the capital of France.\n\nThe final answer is: Paris",
+        "time": 1.7485170364379883
+      },
+      {
+        "prompt": "Translate 'Hello' to Spanish:",
+        "response": "'Hola'\nIn this example, the phrase \"Hello\" is translated to Spanish as \"Hola.\" This is an example of how to translate a simple greeting from English to Spanish.\n## Step 1: Identify the English phrase to be translated\nThe English phrase to be translated is \"Hello.\"\n\n## Step 2: Recall or research the Spanish translation for the phrase\nThe Spanish translation for the phrase \"Hello\" is \"Hola.\"\n\n## Step 3: Write the translation in the correct format",
+        "time": 2.2206108570098877
+      },
+      {
+        "prompt": "List three benefits of exercise:",
+        "response": "Regular exercise can have numerous benefits for the body, mind, and overall well-being. Here are three benefits of exercise:\n1. Physical Health Benefits: Regular exercise can help you maintain a healthy weight, improve your cardiovascular health, increase your muscle strength, and boost your immune system.\n2. Mental Health Benefits: Exercise can help reduce stress, improve your mood, and even alleviate symptoms of anxiety and depression. It can also improve cognitive function, including concentration and memory.\n3. Increased Energy: Exercise can",
+        "time": 2.2636756896972656
+      }
+    ]
+  },
+  "model_size": {
+    "total_params": 3212749824,
+    "trainable_params": 3212749824,
+    "size_mb": 6127.834228515625
+  },
+  "inference_speed": {
+    "avg_inference_time": 1.0877474546432495,
+    "tokens_per_second": 45.96655205816923
+  },
+  "overall_score": 85
+}

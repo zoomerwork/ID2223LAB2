@@ -1,0 +1,43 @@
+{
+  "perplexity": 24.83930778503418,
+  "generation": {
+    "avg_generation_time": 2.324342155456543,
+    "samples": [
+      {
+        "prompt": "Explain quantum computing in simple terms:",
+        "response": "Quantum computing is a new way of computing that uses the principles of quantum mechanics to perform calculations. Unlike classical computers that rely on bits, which can only be in one of two states (0 or 1), quantum computers use quantum bits or qubits that can exist in multiple states simultaneously. This allows quantum computers to perform many calculations at once, making them much faster than classical computers. Quantum computing has the potential to revolutionize many fields, including cryptography, optimization, and artificial intelligence. However, it",
+        "time": 2.7100183963775635
+      },
+      {
+        "prompt": "Write a short story about a robot:",
+        "response": "Zeta-5, or Zeta for short, is a highly advanced robot who was designed to assist and support humans in various tasks. Zeta's creator, Dr. Rachel Kim, had envisioned a future where humans and robots could work together seamlessly, with robots like Zeta taking on tasks that were too difficult or time-consuming for humans to perform.\n\nZeta's body was a sleek and futuristic design, with a silver and black metallic exterior and glowing blue lines that ran along its arms and legs",
+        "time": 2.0906684398651123
+      },
+      {
+        "prompt": "What is the capital of France?",
+        "response": "Paris.\nThe capital of France is Paris, which is located in the Île-de-France region. It is the largest city in France and the country's cultural, economic, and political center. The city is home to many famous landmarks, including the Eiffel Tower, Notre-Dame Cathedral, and the Louvre Museum. Paris is a popular tourist destination, attracting millions of visitors each year. The city has a rich history and is known for its artistic and intellectual traditions. It is also",
+        "time": 2.2416231632232666
+      },
+      {
+        "prompt": "Translate 'Hello' to Spanish:",
+        "response": "'Hola'\nExplanation:\nThe English phrase 'Hello' is used to greet someone and is a common way to introduce oneself. When translating 'Hello' to Spanish, the word 'Hola' is used. 'Hola' means 'hello' or 'hi' in Spanish, and it is used in the same way as 'Hello' in English.\nThe translation of 'Hello' to Spanish is 'Hola'. This is because 'Hola' is the word that is commonly used in Spanish to greet someone",
+        "time": 2.2880771160125732
+      },
+      {
+        "prompt": "List three benefits of exercise:",
+        "response": "Physical health, mental well-being, and social connections.\n\nExercise is a crucial part of a healthy lifestyle, offering numerous benefits for the body and mind. Here are three key advantages of regular exercise:\n\n1. **Physical Health**: Regular exercise helps maintain or improve physical health in various ways. It strengthens muscles, increases flexibility, and enhances cardiovascular health. Exercise can also help with weight management, improve sleep quality, and boost immune function. Moreover, it reduces the risk of chronic diseases like diabetes, heart disease",
+        "time": 2.291323661804199
+      }
+    ]
+  },
+  "model_size": {
+    "total_params": 3212749824,
+    "trainable_params": 3212749824,
+    "size_mb": 6127.834228515625
+  },
+  "inference_speed": {
+    "avg_inference_time": 1.1311586380004883,
+    "tokens_per_second": 44.202464906587586
+  },
+  "overall_score": 85
+}

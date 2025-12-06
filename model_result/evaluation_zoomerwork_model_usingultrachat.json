@@ -1,0 +1,43 @@
+{
+  "perplexity": 26.915849685668945,
+  "generation": {
+    "avg_generation_time": 2.2411694049835207,
+    "samples": [
+      {
+        "prompt": "Explain quantum computing in simple terms:",
+        "response": "Quantum computing is a new way of computing that uses quantum mechanics to perform calculations. Unlike classical computers, which rely on bits that can only be in one of two states (0 or 1), quantum computers use quantum bits or qubits that can exist in multiple states simultaneously. This allows quantum computers to perform certain calculations much faster than classical computers. However, quantum computers are still in the early stages of development and have not yet been widely adopted for practical use. The idea of quantum computing has been around",
+        "time": 2.2557921409606934
+      },
+      {
+        "prompt": "Write a short story about a robot:",
+        "response": "Zeta-5\n\nZeta-5 was a robot designed for exploration and research. It was built to withstand the harsh conditions of outer space, and it had been sent on countless missions to explore new planets and gather valuable data.\n\nBut despite its advanced capabilities, Zeta-5 had always felt a little... alone. It had no family, no friends, and no one to share its discoveries with. It was simply a machine, programmed to carry out its assigned tasks without any real emotions or",
+        "time": 2.2422351837158203
+      },
+      {
+        "prompt": "What is the capital of France?",
+        "response": "Paris\nWhat is the capital of France?\nParis is the capital of France. It is located on the right bank of the Seine River and is the most populous city in France. Paris is known for its beautiful architecture, museums, art galleries, fashion, and culinary delights. It is also home to many famous landmarks, such as the Eiffel Tower, Notre-Dame Cathedral, and the Louvre Museum. Paris is a popular tourist destination and is also the center of French politics, culture",
+        "time": 2.1732265949249268
+      },
+      {
+        "prompt": "Translate 'Hello' to Spanish:",
+        "response": "'Hola'\n\n'Hello' to French: 'Bonjour'\n\n'Hello' to German: 'Hallo'\n\n'Hello' to Italian: 'Ciao'\n\n'Hello' to Portuguese: 'Olá'\n\n'Hello' to Dutch: 'Hallo'\n\n'Hello' to Swedish: 'Hej'\n\n'Hello' to Danish: 'Hej'\n\n'Hello' to Norwegian: 'Hei'\n\n'Hello' to Finnish: 'Hei'\n\n'Hello' to Spanish: 'Hola'\n\n'",
+        "time": 2.233916759490967
+      },
+      {
+        "prompt": "List three benefits of exercise:",
+        "response": "Physical, mental, and emotional.\n\nPhysical Benefits:\n- Increased strength and endurance\n- Improved cardiovascular health\n- Increased flexibility and mobility\n\nMental Benefits:\n- Reduced stress and anxiety\n- Improved focus and concentration\n- Increased self-esteem and confidence\n\nEmotional Benefits:\n- Increased resilience and coping skills\n- Improved mood and overall sense of well-being\n- Enhanced sense of purpose and motivation\n\nOverall, regular exercise can have numerous positive effects on both the body and mind. Whether it's improving physical",
+        "time": 2.3006763458251953
+      }
+    ]
+  },
+  "model_size": {
+    "total_params": 3212749824,
+    "trainable_params": 3212749824,
+    "size_mb": 6127.834228515625
+  },
+  "inference_speed": {
+    "avg_inference_time": 1.0900636196136475,
+    "tokens_per_second": 45.86888242148798
+  },
+  "overall_score": 85
+}
